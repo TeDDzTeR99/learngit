@@ -4,4 +4,3 @@
 - main line 3
 - main line 4
 - feature line 1
-- feature line 2
